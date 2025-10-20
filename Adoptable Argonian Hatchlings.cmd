@@ -1,0 +1,1 @@
+"c:\Program Files\7-Zip\7zG.exe" a "Adoptable Argonian Hatchlings.7z" "Adoptable Argonian Hatchlings"
